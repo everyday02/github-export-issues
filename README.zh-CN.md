@@ -10,7 +10,7 @@
 
 ```javascript
 /*
-// oauth
+// 如果是私有仓库，可以先授权
 octokit.authenticate({
   type: 'oauth',
   token: ''
