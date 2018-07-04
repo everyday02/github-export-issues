@@ -2,6 +2,21 @@
 
 export github issues
 
+see ./app/controller/home.js
+
+```javascript
+/*
+// oauth
+octokit.authenticate({
+  type: 'oauth',
+  token: ''
+})
+*/
+const owner = 'facebook'  // update the owner
+const repo = 'react'      // update the repo
+```
+
+
 ## QuickStart
 
 <!-- add docs here for user -->
