@@ -1,6 +1,6 @@
 # github-export-issues
 
-导出 github issues
+export github issues
 
 ## QuickStart
 
